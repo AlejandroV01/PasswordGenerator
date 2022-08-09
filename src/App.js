@@ -9,7 +9,7 @@ function App() {
   const upperCaseLetters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
   const lowerCaseLetters ='abcdefghijklmnopqrstuvwxyz'
   const specialCharacters = "!'^+%&/()=?_#$½§{[]}|;:>÷`<.*-@é"
-const inputNumber = document.querySelector('.inputNumber')
+
 
 
 const [length, setLength] = useState('');
