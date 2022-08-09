@@ -77,7 +77,7 @@ const promptTrigger = () => {
   return (
     <div className="main">
       <div className="copyPrompt copyPrompt-off">
-        <p>Password successfully copied to clipboard</p>
+        <p>Copied!</p>
       </div>
       <div className="container">
         <div className="titleBox">
